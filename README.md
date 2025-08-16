@@ -10,6 +10,7 @@ This repository contains C/C++ implementations of various CPU scheduling algorit
 - Priority Scheduling
 - Round Robin (RR)
 - Multilevel Queue Scheduling (MLFQ)
+- Lottery Scheduling
 
 ## How to Run
 
